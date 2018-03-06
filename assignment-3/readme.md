@@ -5,4 +5,4 @@
 3. This assignment was pretty straight forward since the steps are all listed out in a nice way. It was very easy to understand and a great learning milestone.
 
 Workstation:
-[a relative link]workstation3.jpeg
+[a relative link](workstation3.jpeg)
