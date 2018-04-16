@@ -1,0 +1,24 @@
+<style>
+    .canvas {
+      height: 100px;
+      width: 100px;
+      position: absolute;
+    }
+    .squiggles {
+      height: 100px;
+      width: 50px;
+      position: absolute;
+      right: : 50px;
+    }
+    .lightning {
+      height: 100px;
+      width: 50px;
+      position: absolute;
+      left: 50px;
+    }
+    .palmtree {
+      height: 100px;
+      width: 50px;
+      position: absolute;
+      top: 50px;
+    }
