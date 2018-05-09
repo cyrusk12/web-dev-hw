@@ -1,10 +1,8 @@
 
 body
 {
-  background-color: orange !important;
+  background-color: orange;
 }
-
-
 
     .squiggles {
       width: 100px;
@@ -12,6 +10,7 @@ body
       position: absolute;
       right: 100px;
       bottom: 0px;
+      background-color: orange;
     }
     .lightning {
       width: 200px;
@@ -19,6 +18,7 @@ body
       position: absolute;
       left: 65px;
       bottom: 0;
+      background-color: orange;
     }
     .palmtree {
       height: 300px;
@@ -26,4 +26,5 @@ body
       position: absolute;
       right: 100px;
       top: 0px;
+      background-color: orange;
     }
