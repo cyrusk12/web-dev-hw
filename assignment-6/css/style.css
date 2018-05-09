@@ -1,5 +1,5 @@
 
-*
+html
 {
   background-color: orange !important;
 }
@@ -17,7 +17,7 @@
       width: 200px;
       height: 100px;
       position: absolute;
-      left: 120px;
+      left: 65px;
       bottom: 0;
     }
     .palmtree {
