@@ -6,23 +6,23 @@ body
   font-style: italic !important;
 }
 
-    .squiggles {
-      width: 100px;
-      height: 100px;
+    div.squiggles {
+      width: 10px;
+      height: 10px;
       position: absolute;
       right: 90px;
       bottom: 0px;
       background-color: orange;
     }
-    .lightning {
-      width: 100px;
-      height: 100px;
+    div.lightning {
+      width: 10px;
+      height: 10px;
       position: absolute;
       right: 60px;
-      bottom: 0;
+      bottom: 10px;
       background-color: orange;
     }
-    .palmtree {
+    div.palmtree {
       height: 100px;
       width: 100px;
       position: absolute;
