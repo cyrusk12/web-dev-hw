@@ -1,7 +1,8 @@
 
-p.body
+body
 {
   background-color: orange;
+  font: Helectiva;
   font-style: italic !important;
 }
 
@@ -9,23 +10,23 @@ p.body
       width: 100px;
       height: 100px;
       position: absolute;
-      right: 100px;
+      right: 90px;
       bottom: 0px;
       background-color: orange;
     }
     .lightning {
-      width: 200px;
+      width: 100px;
       height: 100px;
       position: absolute;
-      left: 65px;
+      right: 60px;
       bottom: 0;
       background-color: orange;
     }
     .palmtree {
-      height: 300px;
+      height: 100px;
       width: 100px;
       position: absolute;
-      right: 100px;
+      right: 30px;
       top: 0px;
       background-color: orange;
     }
