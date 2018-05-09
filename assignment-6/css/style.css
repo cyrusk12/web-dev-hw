@@ -1,4 +1,4 @@
-<style>
+
     .squiggles {
       width: 100px;
       height: 100px;
@@ -20,4 +20,6 @@
       right: 100px;
       top: 0px;
     }
-    </style>
+    body{
+      background-color: orange;
+    }
