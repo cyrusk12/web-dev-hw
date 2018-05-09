@@ -1,23 +1,23 @@
 <style>
     .squiggles {
       width: 100px;
-      height: 150px;
+      height: 100px;
       position: absolute;
       right: 50px;
       bottom: 0px;
     }
     .lightning {
-      width: 150px;
-      height: 200px;
+      width: 200px;
+      height: 100px;
       position: absolute;
       left: 120px;
       bottom: 0;
     }
     .palmtree {
-      height: 100px;
-      width: 50px;
+      height: 300px;
+      width: 100px;
       position: absolute;
-      right: 100px; 
+      right: 100px;
       top: 0px;
     }
     </style>
