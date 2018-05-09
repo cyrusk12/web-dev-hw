@@ -10,23 +10,23 @@ body
       width: 10px;
       height: 10px;
       position: absolute;
-      right: 90px;
-      bottom: 0px;
+      right: 10px;
+      bottom: 10px;
       background-color: orange;
     }
     div.lightning {
       width: 10px;
       height: 10px;
       position: absolute;
-      right: 60px;
-      bottom: 10px;
+      right: 20px;
+      bottom: 20px;
       background-color: orange;
     }
     div.palmtree {
-      height: 100px;
-      width: 100px;
+      height: 10px;
+      width: 10px;
       position: absolute;
       right: 30px;
-      top: 0px;
+      top: 30px;
       background-color: orange;
     }
