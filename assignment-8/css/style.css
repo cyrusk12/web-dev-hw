@@ -1,44 +1,55 @@
-body {
-  background-color: #FDFDF1}
+body
+{
+background-color: #FDFDF1
+}
 
-.h1 { font-family: 'Titan One', cursive;
+.h1
+{
+font-family: 'Titan One', cursive;
 font-size: 15px;
 top: 10px;
 left: 400px;
 right: 100px
 }
 
-.FILLTERQUEEN {color: white;
+.FILLTERQUEEN
+{
+color: white;
 font-size: 14px
 position: absolute;
-left: 1000px;
+left: 999px;
 right:10px;
 z-index: 2;
 font-style: italic;
 font-style: bold;
 background-color: #303f44
 padding:20px;
-margin-bottom: 20px;}
+margin-bottom: 20px;
+}
 
-
-
-#icons{position: absolute;
+#icons
+{
+position: absolute;
 left: 1000px;
 top:300px;
 right: 10px;
 width:70px;
 height: 50px;
-z-index: 2}
+z-index: 2
+}
 
-
-.h2 {
+.h2
+{
 color:#ED1701;
 font-family:'Titan One', cursive; san-serif;
 font-size: 14px;
 font-style: italic;
-font-style: bold;}
+font-style: bold;
+}
 
-#Keeps {font-family: font-family: 'Slabo 27px', serif;
+#Keeps
+{
+font-family: 'Bitter', serif;
 font-size: 20px;
 color:#303f44;
 left: 100px;
@@ -46,19 +57,23 @@ right: 1000px;
 top: auto;
 }
 
+.ATTACHMENT
+{
+font-size: 20px;
+font-family: 'Lato', sans-serif;
+color: #303f44
+}
 
-.ATTACHMENT {font-size: 20px;
-font-family: 'Slabo 27px',serif;
-color: #303f44}
+.guarantee
+{
+left: 1000px;
+right:20px;
+}
 
-
-
-.guarantee {left: 1000px;
-right:20px;}
-
-.box {
-  font-family: 'Slabo 27px',serif;
-  margin:0px;
+.box
+{
+font-family: 'Lato', sans-serif;
+margin:0px;
 margin-left: 170px;
 color: #303f44;
 }
