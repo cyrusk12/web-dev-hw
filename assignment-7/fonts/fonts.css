@@ -10,22 +10,22 @@ font-style: normal;
 }
 
 h1{
-  font-family:'Titan+One', sans-serif;
+  font-family:'Titan+One';
   text-align:center;
 }
 
 h2{
-  font-family:'Titan+One',serif;
+  font-family:'Titan+One';
   text-align: center;
 }
 
 h3{
-  font-family:'Titan+One',serif;
+  font-family:'Titan+One';
   text-align: center;
 }
 
 p{
-  font-family: 'Oswald|Titan+One', serif;
+  font-family: 'Oswald|Titan+One';
   font-size: 2em;
 }
 
