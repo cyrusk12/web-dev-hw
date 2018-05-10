@@ -2,23 +2,23 @@
 
 @font-face {
 font-family: 'Titan One', cursive;
-src: url('../TitanOne-Regular.ttf') format('truetype');
+src: url('../fonts/TitanOne-Regular.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 
 h1{
-font-family: 'Titan One', cursive;
+font-family: 'Titan One', Regular;
   text-align:center;
 }
 
 h2{
-font-family: 'Titan One', cursive;
+font-family: 'Titan One', Regular;
   text-align: center;
 }
 
 h3{
-font-family: 'Titan One', cursive;
+font-family: 'Titan One', Regular;
   text-align: center;
 }
 
