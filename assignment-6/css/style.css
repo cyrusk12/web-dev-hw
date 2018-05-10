@@ -8,25 +8,25 @@ body
 
     div.squiggles {
       width: 50px;
-      height: 100px;
+      height: 50px;
       position: absolute;
-      right: 10px;
-      bottom: 10px;
+      right: 0px;
+      bottom: 0px;
       background-color: orange;
     }
     div.lightning {
       width: 50px;
-      height: 200px;
+      height: 50px;
       position: absolute;
       right: 20px;
-      bottom: 20px;
+      bottom: 0px;
       background-color: orange;
     }
     div.palmtree {
-      height: 100px;
-      width: 100px;
+      height: 50px;
+      width: 50px;
       position: absolute;
       right: 30px;
-      top: 30px;
+      top: 0px;
       background-color: orange;
     }
