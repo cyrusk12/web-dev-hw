@@ -3,35 +3,35 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Titan+One');
 
 @font-face {
-font-family: 'Titan+One';
-src: url('../fonts.nytimes.txt') format('opentype');
+font-family: 'Titan One', cursive;
+src: url('TitanOne-Regular.ttf') format('opentype');
 font-weight: normal;
 font-style: normal;
 }
 
 h1{
-  font-family:'Titan+One';
+font-family: 'Titan One', cursive;
   text-align:center;
 }
 
 h2{
-  font-family:'Titan+One';
+font-family: 'Titan One', cursive;
   text-align: center;
 }
 
 h3{
-  font-family:'Titan+One';
+font-family: 'Titan One', cursive;
   text-align: center;
 }
 
 p{
-  font-family: 'Oswald|Titan+One';
+  font-family: 'Oswald', sans-serif;
   font-size: 2em;
 }
 
 /* PSEUDO ELEMENT */
 h3{
-   font-family: 'Oswald|Titan+One', cursive;
+  font-family: 'Oswald', sans-serif;
    font-size: 1.5em;
    font-weight: bolder;
 }
