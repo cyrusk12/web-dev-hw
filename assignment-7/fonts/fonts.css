@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Titan+One');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
 @font-face {
 font-family: 'Titan One', cursive;
@@ -20,6 +20,14 @@ font-family: 'Titan One', cursive;
 h3{
 font-family: 'Titan One', cursive;
   text-align: center;
+}
+p1
+{
+  font-family: 'Lato', sans-serif;
+}
+p2
+{
+  font-family: 'Lato', sans-serif;
 }
 
 a{
