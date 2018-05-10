@@ -4,7 +4,7 @@
 
 @font-face {
 font-family: 'Titan One', cursive;
-src: url('TitanOne-Regular.ttf') format('truetype');
+src: url('../TitanOne-Regular.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
